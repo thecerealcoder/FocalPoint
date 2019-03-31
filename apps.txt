@@ -1,0 +1,53 @@
+App Store.app
+Automator.app
+Books.app
+Calculator.app
+Calendar.app
+Chess.app
+Contacts.app
+Dashboard.app
+Dictionary.app
+Evernote 2.app
+Evernote.app
+FaceTime.app
+Firefox.app
+Flux.app
+Font Book.app
+Google Chrome.app
+Home.app
+Image Capture.app
+Launchpad.app
+Mail.app
+Maps.app
+Messages.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Teams.app
+Microsoft Word.app
+Mission Control.app
+News.app
+Notes.app
+OneDrive.app
+Photo Booth.app
+Photos.app
+Preview.app
+Python 3.7
+QuickTime Player.app
+Reminders.app
+Safari.app
+Siri.app
+Slack.app
+Spotify.app
+Stickies.app
+Stocks.app
+System Preferences.app
+TextEdit.app
+Time Machine.app
+Tomighty.app
+Utilities
+Visual Studio Code.app
+VoiceMemos.app
+iTerm.app
+iTunes.app
