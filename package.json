@@ -2,9 +2,10 @@
   "name": "focalpoint",
   "version": "1.0.0",
   "description": "annihilate distractions",
-  "main": "windows.js",
+  "main": "main.js",
   "dependencies": {},
   "devDependencies": {
+    "electron": "^4.1.3",
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.16.0",
@@ -12,7 +13,7 @@
     "eslint-plugin-react": "^7.12.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
